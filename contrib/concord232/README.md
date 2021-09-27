@@ -23,5 +23,5 @@ TODO: Add Doc
 Apache 2.0
 
 ## Links ##
-[Original Concord232](https://github.com/JasonCarter80/concord232)
+[Original Concord232](https://github.com/JasonCarter80/concord232)  
 [Home Assistant Concord232 Integration](https://www.home-assistant.io/integrations/concord232/)
